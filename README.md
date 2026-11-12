@@ -1,4 +1,4 @@
-# Hi, I'm Huy 👋
+# Hi, I'm Vu 👋
 
 Full-stack developer. I build and run the software behind my family's restaurant,
 **Asian Le** in Prince Albert, SK: a POS, kitchen display, online ordering, a rewards
